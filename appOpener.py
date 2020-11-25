@@ -1,7 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 24 20:30:34 2020
+import tkinter as tk
+from tkinter import filedialog, Text
+import os
 
-@author: yunja
-"""
+root = tk.Tk()
 
+root.mainloop()
